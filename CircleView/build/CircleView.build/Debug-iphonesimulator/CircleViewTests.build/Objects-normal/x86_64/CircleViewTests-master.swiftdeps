@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.42.4 clang-602.0.42)"
+options: "307f2a651d6745dcd4359ceac45e1321"
+inputs: 
+- "/Users/marywang/source/SwiftClass/iOS-Class-Solutions-04/CircleView/CircleViewTests/CircleViewTests.swift"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.42.4 clang-602.0.42)"
+options: "b949c2f67392cc878fbb794fbcebc4e8"
+inputs: 
+- "/Users/marywang/source/SwiftClass/iOS-Class-Solutions-04/CircleView/CircleView/CircleView.swift"
+- "/Users/marywang/source/SwiftClass/iOS-Class-Solutions-04/CircleView/CircleView/ViewController.swift"
+- "/Users/marywang/source/SwiftClass/iOS-Class-Solutions-04/CircleView/CircleView/AppDelegate.swift"
