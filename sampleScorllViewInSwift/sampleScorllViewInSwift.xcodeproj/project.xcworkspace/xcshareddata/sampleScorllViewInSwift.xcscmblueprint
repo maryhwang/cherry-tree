@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3233C1D8C0664E5EB45DF92A2774E3ACC1126920",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "04AD30FF472F4692B7444AFA771969108DD6AA30" : 0,
+    "3233C1D8C0664E5EB45DF92A2774E3ACC1126920" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9315EF00-061B-4801-BF0E-39D9B5A005A0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "04AD30FF472F4692B7444AFA771969108DD6AA30" : "AppStoreStyleHorizontalScrollView",
+    "3233C1D8C0664E5EB45DF92A2774E3ACC1126920" : "cherry-tree\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sampleScorllViewInSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sampleScorllViewInSwift\/sampleScorllViewInSwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/terenceLuffy\/AppStoreStyleHorizontalScrollView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04AD30FF472F4692B7444AFA771969108DD6AA30"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maryhwang\/cherry-tree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3233C1D8C0664E5EB45DF92A2774E3ACC1126920"
+    }
+  ]
+}

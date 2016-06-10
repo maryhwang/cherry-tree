@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "af5dcece2b8d3802df7a796b892f3af7"
+build_time: [518645793, 670422000]
+inputs:
+  "/Volumes/Lexar/backup-imac/source/MyStyleHorizontalScrollView/sampleScorllViewInSwift/sampleScorllViewInSwift/ViewController.swift": [512862104, 0]
+  "/Volumes/Lexar/backup-imac/source/MyStyleHorizontalScrollView/sampleScorllViewInSwift/sampleScorllViewInSwift/WBXSubView.swift": [512850448, 0]
+  "/Volumes/Lexar/backup-imac/source/MyStyleHorizontalScrollView/sampleScorllViewInSwift/sampleScorllViewInSwift/AppDelegate.swift": [505257922, 0]
+  "/Volumes/Lexar/backup-imac/source/MyStyleHorizontalScrollView/sampleScorllViewInSwift/sampleScorllViewInSwift/ASHorizontalScrollView.swift": [512862766, 0]
